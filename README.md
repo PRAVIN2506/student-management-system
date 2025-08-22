@@ -79,7 +79,7 @@ CREATE TABLE IF NOT EXISTS students (
 6. Deploy on Tomcat and access at http://localhost:8080
 
 ## 📸 Screenshots
-https://drive.google.com/file/d/1k5ged9VlRUWDOqk8w2tiVxudqZcjIkBF/view?usp=drive_link
+https://drive.google.com/file/d/1_vlxflmnMLx5XkU42Av86bU1fL3pdm3u/view?usp=drive_link
 
 ## Author
 Created by Pravin — passionate about building culturally aware, audience-first content.
